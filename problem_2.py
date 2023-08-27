@@ -28,9 +28,13 @@ Os números são..: 12 13 17
 
 """
 
+from library_problem_2 import divisao
 
 def main():
-    pass  # your code here
+    
+    print("=-=-=-=-=-=-=-=-=-=")
+    divisao()
+    print("=-=-=-=-=-=-=-=-=-=")
 
 
 if __name__ == '__main__':
